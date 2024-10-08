@@ -1,4 +1,8 @@
-function index(){
-  return <h1>ola next</h1>
+import Menu from"./components/navbar";
+
+export default  function index(){
+  return <> 
+  <menu/>
+  <h1>Ola turma 6V</h1>
+  </>
 }
-export default index
